@@ -56,7 +56,7 @@ export const services: Service[] = [
     icon: "Hammer",
     short: "Fast, precise repairs for leaks, wind damage, and worn flashing.",
     image:
-      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1633759593085-1eaeb724fc88?q=80&w=1600&auto=format&fit=crop",
     benefits: [
       "Stops leaks before they cause interior damage",
       "Extends the life of your existing roof",
@@ -76,7 +76,7 @@ export const services: Service[] = [
     icon: "Search",
     short: "Comprehensive, no-obligation inspections with a detailed condition report.",
     image:
-      "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1635424709845-3a85ad5e1f5e?q=80&w=1600&auto=format&fit=crop",
     benefits: [
       "Free, no-pressure assessment",
       "Photo-documented condition report",
@@ -96,7 +96,7 @@ export const services: Service[] = [
     icon: "CloudLightning",
     short: "Rapid response for hail, wind, and fallen-debris damage, insurance-ready.",
     image:
-      "https://images.unsplash.com/photo-1561484930-998b6a7b22e8?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1673645652590-9d21295bf4ac?q=80&w=1600&auto=format&fit=crop",
     benefits: [
       "Emergency tarping to prevent further damage",
       "Insurance-ready documentation and photos",
@@ -116,7 +116,7 @@ export const services: Service[] = [
     icon: "AlarmClock",
     short: "24/7 emergency response to secure your roof and stop active leaks.",
     image:
-      "https://images.unsplash.com/photo-1606274741559-1d6a3b12b7c9?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1726589004565-bedfba94d3a2?q=80&w=1600&auto=format&fit=crop",
     benefits: [
       "24/7/365 phone line, real person every time",
       "Rapid on-site response times",
@@ -136,7 +136,7 @@ export const services: Service[] = [
     icon: "Layers",
     short: "Durable standing-seam and metal shingle systems for a modern, lasting roof.",
     image:
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1673645652350-6a4c31c1c78f?q=80&w=1600&auto=format&fit=crop",
     benefits: [
       "50+ year lifespan with minimal maintenance",
       "Excellent wind, fire, and impact resistance",
@@ -156,7 +156,7 @@ export const services: Service[] = [
     icon: "Grid3x3",
     short: "Architectural and three-tab asphalt shingle systems in a range of styles.",
     image:
-      "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605450099279-533bd3ce379a?q=80&w=1600&auto=format&fit=crop",
     benefits: [
       "Affordable, proven, and widely available",
       "Broad color and style selection",
@@ -176,7 +176,7 @@ export const services: Service[] = [
     icon: "Square",
     short: "TPO, EPDM, and modified bitumen systems for commercial and low-slope roofs.",
     image:
-      "https://images.unsplash.com/photo-1489514354504-1653aa90e34e?q=80&w=1600&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1587061633437-187ac80e8e7a?q=80&w=1600&auto=format&fit=crop",
     benefits: [
       "Specialized commercial low-slope expertise",
       "Seamless, watertight membrane systems",
@@ -293,30 +293,30 @@ export type GalleryItem = {
 
 export const galleryItems: GalleryItem[] = [
   { id: 1, title: "Colonial Shingle Replacement", category: "Replacements", image: "https://images.unsplash.com/photo-1632759145351-1d592919f522?q=80&w=1200&auto=format&fit=crop" },
-  { id: 2, title: "Downtown Office Flat Roof", category: "Commercial", image: "https://images.unsplash.com/photo-1489514354504-1653aa90e34e?q=80&w=1200&auto=format&fit=crop" },
-  { id: 3, title: "Standing Seam Metal Install", category: "Metal Roofing", image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1200&auto=format&fit=crop" },
-  { id: 4, title: "Storm Damage Restoration", category: "Repairs", image: "https://images.unsplash.com/photo-1561484930-998b6a7b22e8?q=80&w=1200&auto=format&fit=crop" },
-  { id: 5, title: "Modern Farmhouse Reroof", category: "Residential", image: "https://images.unsplash.com/photo-1600585152220-90363fe7e115?q=80&w=1200&auto=format&fit=crop" },
-  { id: 6, title: "Architectural Shingle Upgrade", category: "Shingle Roofing", image: "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?q=80&w=1200&auto=format&fit=crop" },
-  { id: 7, title: "Retail Plaza Roof Renewal", category: "Commercial", image: "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?q=80&w=1200&auto=format&fit=crop" },
-  { id: 8, title: "Ranch Home Full Replacement", category: "Residential", image: "https://images.unsplash.com/photo-1606274741559-1d6a3b12b7c9?q=80&w=1200&auto=format&fit=crop" },
-  { id: 9, title: "Metal Accent Roof Detail", category: "Metal Roofing", image: "https://images.unsplash.com/photo-1580216253962-64d2224d4fea?q=80&w=1200&auto=format&fit=crop" },
+  { id: 2, title: "Downtown Office Flat Roof", category: "Commercial", image: "https://images.unsplash.com/photo-1587061633437-187ac80e8e7a?q=80&w=1200&auto=format&fit=crop" },
+  { id: 3, title: "Standing Seam Metal Install", category: "Metal Roofing", image: "https://images.unsplash.com/photo-1673645652350-6a4c31c1c78f?q=80&w=1200&auto=format&fit=crop" },
+  { id: 4, title: "Storm Damage Restoration", category: "Repairs", image: "https://images.unsplash.com/photo-1673645652590-9d21295bf4ac?q=80&w=1200&auto=format&fit=crop" },
+  { id: 5, title: "Modern Farmhouse Reroof", category: "Residential", image: "https://images.unsplash.com/photo-1633759593085-1eaeb724fc88?q=80&w=1200&auto=format&fit=crop" },
+  { id: 6, title: "Architectural Shingle Upgrade", category: "Shingle Roofing", image: "https://images.unsplash.com/photo-1605450099279-533bd3ce379a?q=80&w=1200&auto=format&fit=crop" },
+  { id: 7, title: "Retail Plaza Roof Renewal", category: "Commercial", image: "https://images.unsplash.com/photo-1635424709845-3a85ad5e1f5e?q=80&w=1200&auto=format&fit=crop" },
+  { id: 8, title: "Ranch Home Full Replacement", category: "Residential", image: "https://images.unsplash.com/photo-1726589004565-bedfba94d3a2?q=80&w=1200&auto=format&fit=crop" },
+  { id: 9, title: "Metal Accent Roof Detail", category: "Metal Roofing", image: "https://images.unsplash.com/photo-1706029831375-c090c70c161d?q=80&w=1200&auto=format&fit=crop" },
 ];
 
 export const beforeAfter = [
   {
     title: "Split-Level Full Reroof",
-    before: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?q=80&w=1200&auto=format&fit=crop",
+    before: "https://images.unsplash.com/photo-1635424824800-692767998d07?q=80&w=1200&auto=format&fit=crop",
     after: "https://images.unsplash.com/photo-1632759145351-1d592919f522?q=80&w=1200&auto=format&fit=crop",
   },
   {
     title: "Storm-Damaged Shingle Roof",
-    before: "https://images.unsplash.com/photo-1561484930-998b6a7b22e8?q=80&w=1200&auto=format&fit=crop",
-    after: "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?q=80&w=1200&auto=format&fit=crop",
+    before: "https://images.unsplash.com/photo-1673645652590-9d21295bf4ac?q=80&w=1200&auto=format&fit=crop",
+    after: "https://images.unsplash.com/photo-1605450099279-533bd3ce379a?q=80&w=1200&auto=format&fit=crop",
   },
   {
     title: "Aging Metal Roof Upgrade",
-    before: "https://images.unsplash.com/photo-1600566752229-450a5480d2ea?q=80&w=1200&auto=format&fit=crop",
-    after: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1200&auto=format&fit=crop",
+    before: "https://images.unsplash.com/photo-1590365876016-da05ac533e83?q=80&w=1200&auto=format&fit=crop",
+    after: "https://images.unsplash.com/photo-1673645652350-6a4c31c1c78f?q=80&w=1200&auto=format&fit=crop",
   },
 ];

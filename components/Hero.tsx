@@ -10,7 +10,7 @@ export default function Hero() {
   return (
     <section className="relative flex min-h-[92vh] items-center overflow-hidden bg-charcoal-dark">
       <Image
-        src="https://images.unsplash.com/photo-1632759145351-1d592919f522?q=80&w=2000&auto=format&fit=crop"
+        src="https://images.unsplash.com/photo-1635424824849-1b09bdcc55b1?q=80&w=2000&auto=format&fit=crop"
         alt="Professional roofing crew installing new architectural shingles on a residential home"
         fill
         priority
